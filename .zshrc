@@ -96,7 +96,6 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 
 # Environment variables
-export EVENT_DB_PWD="password"
 export JAVA_HOME=$(/usr/libexec/java_home)
 export GOPATH=~/Prosjekter/Go
 export PATH=$PATH
